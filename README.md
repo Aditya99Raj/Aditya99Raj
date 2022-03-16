@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">I am Aspiring MERN Stack Developer</h3>
 <h3 align="center">I'm a React Developer with proficiency in Data Structures Algorithms Express and MogoDB who enjoys making web application and learning new technology.</h3>
+<img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya99raj&label=Profile%20views&color=0e75b6&style=flat" alt="aditya99raj" /> </p>
 
