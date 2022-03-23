@@ -7,9 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya99raj" alt="aditya99raj" /></a> </p>
 
+  🙋‍♂️  **About Me**
+ 
+- 📫 I am currently student at **Masai School**
+ 
+- 🌱 I am currently learningt at **Full Stack Web Development at Masai School**
+
+- 👯 I am looking to work as a **Full Stack Web Developer**
+
 - 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
 
 - 📫 How to reach me **adityaraj9983@gmail.com**
+
+- ⚡ Fun fact **Love to explore new things and play cricket**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IaBXrHMM_S-jkBP9CkuO9h9bfRUjv5kM/view?usp=sharing" >Resume</a>
 
