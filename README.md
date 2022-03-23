@@ -11,7 +11,7 @@
  
 - 📫 I am currently student at **Masai School**
  
-- 🌱 I am currently learningt at **Full Stack Web Development at Masai School**
+- 🌱 I am currently learning **Full Stack Web Development at Masai School**
 
 - 👯 I am looking to work as a **Full Stack Web Developer**
 
