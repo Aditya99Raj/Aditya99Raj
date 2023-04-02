@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Love to explore new things and play cricket**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1IaBXrHMM_S-jkBP9CkuO9h9bfRUjv5kM/view?usp=sharing" >Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DAV2WmePZztQcUXvsuvEbzYdfHBCojX7/view?usp=sharing" >Resume</a>
 
 - 📄 Know about my Work <a  href="https://aditya-portfolio-dmhm1vqth-adityaraj9983-gmailcom.vercel.app/" >Portfolio</a>
 
