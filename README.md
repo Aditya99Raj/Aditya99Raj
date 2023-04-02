@@ -41,4 +41,4 @@
 
 </p>
 
-<p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aditya99raj&show_icons=true&bg_color=30" alt="aditya99raj" /></p>
+<p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=aditya99raj&theme=sea" alt="aditya99raj" /></p>
