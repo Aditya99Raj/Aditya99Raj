@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1DAV2WmePZztQcUXvsuvEbzYdfHBCojX7/view?usp=sharing" >Resume</a>
 
-- 📄 Know about my Work <a  "https://aditya-raj-portfolio.vercel.app/" >Portfolio</a>
+- 📄 Know about my Work <a href = "https://aditya-raj-portfolio.vercel.app/" >Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
