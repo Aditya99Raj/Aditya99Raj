@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">I am Aspiring MERN Stack Developer</h3>
-<h3 align="center">I'm a MERN Stack Developer with proficiency in Data Structures Algorithms Express Flutter Dart Typescript Typegoose and MongoDB who enjoys making web application and learning new technology.</h3>
+<h3 align="center">I am Cross-Platform MERN Stack Developer</h3>
+<h3 align="center">I'm a Cross-Platform MERN Stack Developer with proficiency in Data Structures Algorithms Express Flutter Dart Typescript Typegoose and MongoDB who enjoys making web application and learning new technology.</h3>
 <p align="center" ><img width="80%" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya99raj&label=Profile%20views&color=0e75b6&style=flat" alt="aditya99raj" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I am looking to work as a **Full Stack Web Developer**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+- 💬 Ask me about **JAVASCRIPT REACT FLUTTER DART NODEJS**
 
 - 📫 How to reach me **adityaraj9983@gmail.com**
 
